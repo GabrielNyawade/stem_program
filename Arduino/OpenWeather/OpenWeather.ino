@@ -10,11 +10,11 @@ bool button_status = false;
 
 Ucglib_ST7735_18x128x160_HWSPI ucg(/*cd=*/16, /*cs=*/5, /*reset=*/17);
 
-const char* ssid = "NyarAsembo";
-const char* password = "Asembo@2023";
+const char* ssid = "";
+const char* password = "";
 
 // Your Domain name with URL path or IP address with path
-String openWeatherMapApiKey = "5f8694fdd4110af0d8bc086ac6d1ec41";
+String openWeatherMapApiKey = "";
 // Example:
 //String openWeatherMapApiKey = "bd939aa3d23ff33d3c8f5dd1dd435";
 String city;
