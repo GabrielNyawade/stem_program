@@ -4,7 +4,7 @@ const int button = 13;
 
 void message(){
   lcd.setCursor(0, 0);
-  String message = "Dear mum,I love u so much<3";
+  String message = "Happy Mother's Day";
   for (byte i = 0; i < message.length(); i++){
     if (i < 16) {
       lcd.print(message[i]);
