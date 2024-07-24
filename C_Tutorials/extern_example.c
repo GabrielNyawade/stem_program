@@ -2,7 +2,7 @@
 #include <stdio.h>
 static int x = 20;
 int main (){
-// x is a global variabl
+// x is a global variable
   func();
   printf("\n");
   func2();
