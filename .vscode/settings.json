@@ -2,5 +2,6 @@
     "C_Cpp.default.compilerPath": "C:\\msys64\\usr\\bin\\gcc.exe",
     "C_Cpp.errorSquiggles": "disabled",
     "stm32-for-vscode.openOCDPath": false,
-    "stm32-for-vscode.makePath": false
+    "stm32-for-vscode.makePath": false,
+    "cmake.sourceDirectory": "C:/Users/user/Documents/stem_program/Microcontrollers/led_control"
 }

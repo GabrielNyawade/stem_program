@@ -1,0 +1,57 @@
+2024-08-27 00:00:09,688 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Aug 27, 2024 12:00:09 AM java.util.prefs.WindowsPreferences <init>
+2024-08-27 00:00:09,719 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0xffffffff80000002. Windows RegCreateKeyEx(...) returned error code 5.
+2024-08-27 00:00:09,719 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-08-27 00:00:11,390 [INFO] MainUpdater:2873 - connection check result : 10
+2024-08-27 00:00:11,391 [INFO] MainUpdater:290 - Updater Check For Update Now.
+2024-08-27 00:00:11,392 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.120
+2024-08-27 00:00:11,425 [INFO] McuFinderGlobals:63 - Set McuFinder mode to 2 (CubeIDE integrated)
+2024-08-27 00:00:11,426 [INFO] UserAuth:179 - activating auth plugin
+2024-08-27 00:00:11,426 [INFO] McuFinderGlobals:63 - Set McuFinder mode to 2 (CubeIDE integrated)
+2024-08-27 00:00:11,426 [INFO] UserAuth:179 - activating auth plugin
+2024-08-27 00:00:11,432 [INFO] UserAuth:417 - Internet connection configuration mode: 1
+2024-08-27 00:00:11,432 [INFO] UserAuth:417 - Internet connection configuration mode: 1
+2024-08-27 00:00:11,492 [INFO] JxBrowserEngine:152 - Initiate JxBrowser Engine with user profile folder
+2024-08-27 00:00:11,635 [INFO] CheckServerUpdateThread:120 - End of CheckServer Thread
+2024-08-27 00:00:12,841 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENVWB1.1.4.0
+2024-08-27 00:00:12,867 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-FLIGHT1.5.0.2
+2024-08-27 00:00:12,906 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.7.0.0
+2024-08-27 00:00:12,928 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-SMARTAG2.1.2.0
+2024-08-27 00:00:12,951 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENV1.5.0.0
+2024-08-27 00:00:12,976 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-SIGFOX1.3.2.0
+2024-08-27 00:00:12,999 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.9.0.0
+2024-08-27 00:00:13,023 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALS.1.0.2
+2024-08-27 00:00:13,042 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-ASTRA1.2.0.0
+2024-08-27 00:00:13,044 [INFO] ThirdParty:978 - Integrity check success = true
+2024-08-27 00:00:13,044 [INFO] IntegrityCheckThread:100 - exiting critical section [integrity check]
+2024-08-27 00:00:13,044 [INFO] IntegrityCheckThread:103 - End integrity checks thread
+2024-08-27 00:00:17,451 [INFO] WebApp:167 - Instantiating new browser for Auth
+2024-08-27 00:00:18,610 [INFO] WebApp:448 - Apply proxy settings
+2024-08-27 00:00:18,610 [INFO] WebApp:533 - Chromium requires no authentication
+2024-08-27 00:00:18,626 [INFO] WebApp:476 - Direct internet connection detected
+2024-08-27 00:00:18,670 [INFO] WebApp:869 - Register for checkConnection events
+2024-08-27 00:00:18,670 [INFO] WebApp:448 - Apply proxy settings
+2024-08-27 00:00:18,671 [INFO] WebApp:533 - Chromium requires no authentication
+2024-08-27 00:00:18,671 [INFO] WebApp:476 - Direct internet connection detected
+2024-08-27 00:00:19,023 [INFO] WebApp:220 - Starting web application
+2024-08-27 00:00:19,024 [INFO] WebApp:578 - Web application path used C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\db\plugins\mcufinder\reactClient1\index.html
+2024-08-27 00:00:19,825 [INFO] WebApp:186 - Connection restablished
+2024-08-27 00:01:16,179 [INFO] WebApp:643 - userauth.ini created with success
+2024-08-27 00:09:25,011 [INFO] MainUpdater:2873 - connection check result : 10
+2024-08-27 00:09:25,409 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Aug 27, 2024 12:09:25 AM java.util.prefs.WindowsPreferences WindowsRegOpenKey1
+2024-08-27 00:09:25,424 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Trying to recreate Windows registry node Software\JavaSoft\Prefs at root 0xffffffff80000002.
+2024-08-27 00:09:25,425 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-08-27 00:09:25,433 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Aug 27, 2024 12:09:25 AM java.util.prefs.WindowsPreferences openKey
+2024-08-27 00:09:25,446 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Could not open windows registry node Software\JavaSoft\Prefs at root 0xffffffff80000002. Windows RegOpenKey(...) returned error code 2.
+2024-08-27 00:09:25,447 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-08-27 00:09:25,459 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Aug 27, 2024 12:09:25 AM java.util.prefs.WindowsPreferences WindowsRegOpenKey1
+2024-08-27 00:09:25,469 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Trying to recreate Windows registry node Software\JavaSoft\Prefs at root 0xffffffff80000002.
+2024-08-27 00:09:25,470 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-08-27 00:09:25,479 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Aug 27, 2024 12:09:25 AM java.util.prefs.WindowsPreferences openKey
+2024-08-27 00:09:25,490 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Could not open windows registry node Software\JavaSoft\Prefs at root 0xffffffff80000002. Windows RegOpenKey(...) returned error code 2.
+2024-08-27 00:09:25,492 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-08-27 00:09:25,689 [INFO] CheckServerUpdateThread:120 - End of CheckServer Thread
+2024-08-27 00:10:12,314 [INFO] MainUpdater:2873 - connection check result : 10
+2024-08-27 00:10:12,323 [INFO] MainUpdater:666 - Updater currently busy
+2024-08-27 00:10:32,810 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2024-08-27 00:10:39,195 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2024-08-27 00:10:39,197 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
